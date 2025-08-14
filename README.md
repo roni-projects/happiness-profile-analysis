@@ -35,7 +35,7 @@ The analysis included:
 
 ---
 ## Working with Data Files
--.csv files can be opened in Excel, Google Sheets, or loaded into Python using pandas.read_csv().
+csv files can be opened in Excel, Google Sheets, or loaded into Python using pandas.read_csv().
 - The notebook produces:
   - Profile score tables
   - Regression coefficient tables
