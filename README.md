@@ -54,9 +54,9 @@ The analysis included:
 
 - Statistical_Theory_Final_Project.pdf – Final written report including:
   - Abstract
-  - Methodology
-  - Results & Evaluation
-  - Conclusions
+  - Introduction
+  - Methods
+  - Results and main findings
   - Discussion: Interpretation of findings, theoretical implications, and limitations
 
 
